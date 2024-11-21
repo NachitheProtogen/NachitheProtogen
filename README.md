@@ -3,7 +3,7 @@
   "Name": "Nachi",
   "Age": 18,
   "Gender": "Male",
-  "Programming Languages": ["Java Script", "C#", "GML", "PhP"],
+  "Programming Languages": ["Java Script", "C#", "GML", "PhP", "Python", "C++"],
   "Other Hobbys": ["Art", "Videogames", "Gamedevelopment"]
   }
 ]
